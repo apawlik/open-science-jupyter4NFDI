@@ -1,3 +1,5 @@
+**This work is supported by Jupyter4NFDI as part of Base4NFDI (DFG project no.521453681).**
+
 # FAIR-data-jupyter4NFDI
 This repository is an example of training material which can be run on Jupyter4NFDI infrastructure.
 
