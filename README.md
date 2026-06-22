@@ -3,7 +3,11 @@
 [![Runs on Jupyter4NFDI](https://github.com/apawlik/open-science-jupyter4NFDI/actions/workflows/jupyter4nfdi.yml/badge.svg)](https://github.com/apawlik/open-science-jupyter4NFDI/actions/workflows/jupyter4nfdi.yml)
 
 # FAIR and Open Science with Jupyter4NFDI
-This repository is an example of training material which can be run on Jupyter4NFDI infrastructure.
+This is a training course on Open Science. You can intearact with the bits of code included in this material by launching this repository in:
+- [myBinder](https://mybinder.org/v2/gh/apawlik/open-science-jupyter4NFDI/HEAD)) (no login required but any changes you make will not be saved);
+- [Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/apawlik/open-science-jupyter4NFDI/HEAD) (requires login).
+ 
+This repository is an example of training material which can be run on Jupyter4NFDI infrastructure. 
 
 ## Resources
 * [Open Science Essentials for South Africa](https://zenodo.org/records/14891809)
