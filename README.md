@@ -4,7 +4,7 @@
 
 # FAIR and Open Science with Jupyter4NFDI
 This is a training course on Open Science. You can intearact with the bits of code included in this material by launching this repository in:
-- [myBinder](https://mybinder.org/v2/gh/apawlik/open-science-jupyter4NFDI/HEAD)) (no login required but any changes you make will not be saved);
+- [myBinder](https://mybinder.org/v2/gh/apawlik/open-science-jupyter4NFDI/HEAD) (no login required but any changes you make will not be saved);
 - [Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/apawlik/open-science-jupyter4NFDI/HEAD) (requires login).
  
 This repository is an example of training material which can be run on Jupyter4NFDI infrastructure. 
