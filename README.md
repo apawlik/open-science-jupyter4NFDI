@@ -1,3 +1,5 @@
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/open-science-jupyter4NFDI/actions/workflows/jupyter4nfdi.yml/badge.svg)](https://github.com/apawlik/open-science-jupyter4NFDI/actions/workflows/jupyter4nfdi.yml)
+
 # FAIR and Open Science with Jupyter4NFDI
 This repository is an example of training material which can be run on Jupyter4NFDI infrastructure.
 
