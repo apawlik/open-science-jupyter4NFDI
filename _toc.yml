@@ -2,3 +2,4 @@ format: jb-book
 root: notebooks/index
 chapters:
   - file: notebooks/01_what_is_open_science
+  - file: notebooks/02_fair_principles
