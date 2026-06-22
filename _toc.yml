@@ -1,4 +1,4 @@
 format: jb-book
-root: notebooks/index
+root: notebooks/README
 chapters:
   - file: notebooks/01_what_is_open_science
