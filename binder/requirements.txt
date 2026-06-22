@@ -1,5 +1,5 @@
 requests==2.32.3
-jupyter-book
-matplotlib
-numpy
-pandas
+jupyter-book==0.15.1
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.1
