@@ -3,7 +3,8 @@ version: 1
 project:
   title: FAIR and Open Science with Jupyter4NFDI
   authors:
-    - Aleksandra Pawlik
+    - name: Aleksandra Pawlik
+      orcid: https://orcid.org/0000-0001-8418-6735
 
   toc:
     - file: notebooks/index.ipynb
@@ -21,7 +22,13 @@ project:
 
 site:
   options:
-    logo: ""
+    logo: "Jupyter4NFDI-top.png"
   actions:
     - title: GitHub Repository
       url: https://github.com/apawlik/open-science-jupyter4NFDI
+
+parts:
+    primary_sidebar_footer: ''
+    footer: |
+      This work is supported by the DFG project no.521453681.  |
+      [Jupyter4NFDI](https://nfdi-jupyter.de/)
