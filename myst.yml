@@ -23,6 +23,7 @@ project:
 site:
   options:
     logo: "Jupyter4NFDI-top.png"
+    favicon: favicon.svg
   actions:
     - title: GitHub Repository
       url: https://github.com/apawlik/open-science-jupyter4NFDI
