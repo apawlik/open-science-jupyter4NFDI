@@ -27,9 +27,7 @@ site:
   actions:
     - title: Jupyter4NFDI
       url: https://nfdi-jupyter.de/
-    - title: "This work is supported by the DFG project no.521453681."
-
-parts:
+  parts:
     primary_sidebar_footer: ''
     footer: |
       "This work is supported by the DFG project no.521453681."  |
