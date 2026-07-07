@@ -25,8 +25,9 @@ site:
     logo: "Jupyter4NFDI-top.png"
     favicon: "favicon.svg"
   actions:
-    - title: GitHub Repository
-      url: https://github.com/apawlik/open-science-jupyter4NFDI
+    - title: Jupyter4NFDI
+      url: https://nfdi-jupyter.de/
+    - title: "This work is supported by the DFG project no.521453681."
 
 parts:
     primary_sidebar_footer: ''
