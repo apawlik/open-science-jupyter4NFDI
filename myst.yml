@@ -23,7 +23,7 @@ project:
 site:
   options:
     logo: "Jupyter4NFDI-top.png"
-    favicon: favicon.svg
+    favicon: "favicon.svg"
   actions:
     - title: GitHub Repository
       url: https://github.com/apawlik/open-science-jupyter4NFDI
@@ -31,5 +31,5 @@ site:
 parts:
     primary_sidebar_footer: ''
     footer: |
-      This work is supported by the DFG project no.521453681.  |
+      "This work is supported by the DFG project no.521453681."  |
       [Jupyter4NFDI](https://nfdi-jupyter.de/)
