@@ -1,0 +1,25 @@
+version: 1
+
+project:
+  title: FAIR and Open Science with Jupyter4NFDI
+  authors:
+    - Aleksandra Pawlik
+
+  toc:
+    - file: notebooks/index.ipynb
+    - file: notebooks/01_what_is_open_science.ipynb
+    - file: notebooks/02_fair_principles.ipynb
+
+  # In-page execution (the "power" button at the top of the page)
+  jupyter:
+    binder:
+      repo: apawlik/open-science-jupyter4NFDI
+      provider: github
+      ref: main
+
+site:
+  options:
+    logo: ""
+  actions:
+    - title: GitHub Repository
+      url: https://github.com/apawlik/open-science-jupyter4NFDI
