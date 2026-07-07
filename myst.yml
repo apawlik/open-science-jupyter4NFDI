@@ -9,6 +9,8 @@ project:
     - file: notebooks/index.ipynb
     - file: notebooks/01_what_is_open_science.ipynb
     - file: notebooks/02_fair_principles.ipynb
+    - file: notebooks/03_care_principles.ipynb
+    - file: notebooks/04_fair_in_practice.ipynb
 
   # In-page execution (the "power" button at the top of the page)
   jupyter:
