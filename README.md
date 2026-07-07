@@ -28,6 +28,8 @@ This license covers any non-code contents, such as tutorials.
 This license covers any code included in this repository.
 
 ## Acknowledgements
-**This work is supported by Jupyter4NFDI as part of Base4NFDI (DFG project no.521453681).**
+This work is supported by Jupyter4NFDI as part of **Base4NFDI (DFG project no.521453681).**
+
+MyST configuration based on the [Open Geospatial Solutions MyST Blog Template](https://github.com/opengeos/myst-blog-template)
   
 
